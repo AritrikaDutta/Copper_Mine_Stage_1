@@ -1,0 +1,16 @@
+# Generated datasets (regenerate locally)
+*.csv
+*.txt
+!requirements.txt
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.Python
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
